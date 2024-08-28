@@ -38,6 +38,8 @@ The Minimax algorithm is a recursive decision-making algorithm used to determine
 - The algorithm ensures that the AI will either win or draw, making it unbeatable.
 
 ## Screenshots
+![Game Screenshot](./public/game-image.png)
+![AI Wins](./public/AI-wins.png)
 
 
 
