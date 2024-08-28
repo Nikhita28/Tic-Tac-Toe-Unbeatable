@@ -25,13 +25,9 @@ This project is an implementation of the classic Tic Tac Toe game using React an
 
 
 ## How It Works
-###Minimax Algorithm
+### Minimax Algorithm
 The Minimax algorithm is a recursive decision-making algorithm used to determine the optimal move for the AI player. It evaluates all possible moves and assigns a score to each move based on the likelihood of winning, drawing, or losing. The AI then selects the move with the highest score, ensuring that it either wins or forces a draw.
 
-### React Implementation
-- **Game Component**: Manages the state of the game, including the board, player turns, and the winner.
-- **Board Component**: Renders the Tic Tac Toe grid and handles user interactions.
-- **Cell Component**: Represents each cell in the grid.
 ### AI Strategy
 - The AI always plays as 'O'.
 - The Minimax algorithm is used to evaluate each possible move and select the best one.
